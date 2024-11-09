@@ -72,7 +72,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("/img/landing.jpg");
+  background-image: url("/Project website bocchi the Rock!/img/landing.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -208,19 +208,19 @@ body {
 }
 
 .banner-1 {
-  background-image: url(/img/bocchi.png);
+  background-image: url(/Project\ website\ Bocchi\ the\ Rock!/img/bocchi.png);
 }
 
 .banner-2 {
-  background-image: url(/img/ryo.jpg);
+  background-image: url(/Project\ website\ Bocchi\ the\ Rock!/img/ryo.jpg);
 }
 
 .banner-3 {
-  background-image: url(/img/Nijika.jpg);
+  background-image: url(/Project\ website\ Bocchi\ the\ Rock!/img/Nijika.jpg);
 }
 
 .banner-4 {
-  background-image: url(/img/ikuyo.jpg);
+  background-image: url(/Project\ website\ Bocchi\ the\ Rock!/img/ikuyo.jpg);
 }
 
 /* Footer */
